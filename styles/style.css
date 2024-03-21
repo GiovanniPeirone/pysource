@@ -16,7 +16,10 @@ body{
     grid-column-end: 2;
 }
 
-.editor{
-    grid-column-start: 2;
-    grid-column-end: 3;
+.editorTexto{
+    height: max-content;
+}
+
+.editor-cont{
+    height: max-content;
 }
